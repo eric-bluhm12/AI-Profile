@@ -1,0 +1,55 @@
+{
+  "name": "Kevin Johnson",
+  "email": "ggkevin12301@outlook.com",
+  "phone": "",
+  "location": "Brownsboro, Texas, United States",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Cargo Express Freight",
+      "title": "Senior Software Engineer",
+      "location": "",
+      "start_date": "October 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": "BrightOps",
+      "title": "AI Software Engineer",
+      "location": "",
+      "start_date": "January 2019",
+      "end_date": "October 2023"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "June 2017",
+      "end_date": "January 2019"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "July 2016",
+      "end_date": "June 2017"
+    },
+    {
+      "company": "Google",
+      "title": "Software Engineer Internship",
+      "location": "",
+      "start_date": "July 2015",
+      "end_date": "June 2016"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Arts (B.A.)",
+      "school": "California State University",
+      "start_year": "2011",
+      "end_year": "2015"
+    }
+  ]
+}

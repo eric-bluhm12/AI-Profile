@@ -1,0 +1,48 @@
+{
+  "name": "Christopher Duncan",
+  "email": "chris.dun01052026@outlook.com",
+  "phone": "",
+  "location": "Des Moines, Iowa, United States",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "BrightOps",
+      "title": "AI Software Engineer",
+      "location": "",
+      "start_date": "October 2025",
+      "end_date": "Present"
+    },
+    {
+      "company": "Accenture",
+      "title": "Senior Software Engineer",
+      "location": "",
+      "start_date": "May 2019",
+      "end_date": "October 2025"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "June 2018",
+      "end_date": "May 2019"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Engineer Intern",
+      "location": "",
+      "start_date": "September 2016",
+      "end_date": "June 2018"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science – Computer Software Engineering",
+      "school": "Iowa State University",
+      "start_year": "2014",
+      "end_year": "2018"
+    }
+  ]
+}
