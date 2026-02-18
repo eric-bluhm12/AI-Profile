@@ -1,0 +1,48 @@
+{
+  "name": "Peeter Markus",
+  "email": "markus.peeter008@outlook.com",
+  "phone": "",
+  "location": "Tallinn, Harjumaa, Estonia",
+  "linkedin": "https://www.linkedin.com/in/peeter-markus-169a433a1/",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Hexagon",
+      "title": "Senior AI Engineer",
+      "location": "",
+      "start_date": "Mar 2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "Pipedrive",
+      "title": "Artificial Intelligence Engineer",
+      "location": "",
+      "start_date": "May 2020",
+      "end_date": "Mar 2024"
+    },
+    {
+      "company": "Kodality",
+      "title": "Lead Software Engineer",
+      "location": "",
+      "start_date": "May 2018",
+      "end_date": "Apr 2020"
+    },
+    {
+      "company": "Kodality",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "Aug 2016",
+      "end_date": "May 2018"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science – Computer Science",
+      "school": "TalTech – Tallinn University of Technology",
+      "start_year": "2012",
+      "end_year": "2016"
+    }
+  ]
+}
