@@ -1,0 +1,55 @@
+{
+  "name": "Bradley Holley",
+  "email": "bradley.holley12@outlook.com",
+  "phone": "",
+  "location": "Orange, Texas, United States",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Hexagon Manufacturing Intelligence",
+      "title": "Senior Software Engineer",
+      "location": "",
+      "start_date": "May 2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "PuzzleHR",
+      "title": "Senior Software Engineer",
+      "location": "",
+      "start_date": "Jun 2020",
+      "end_date": "Apr 2024"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "Jul 2018",
+      "end_date": "Jun 2020"
+    },
+    {
+      "company": "Lenovo",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "Jul 2016",
+      "end_date": "Jul 2018"
+    },
+    {
+      "company": "Lenovo",
+      "title": "Software Engineer Intern",
+      "location": "",
+      "start_date": "Sep 2015",
+      "end_date": "Jul 2016"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science – Computer Science",
+      "school": "Texas Tech University",
+      "start_year": "2011",
+      "end_year": "2015"
+    }
+  ]
+}

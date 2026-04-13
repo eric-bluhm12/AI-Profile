@@ -1,0 +1,55 @@
+{
+  "name": "Christopher Garcia",
+  "email": "chris.garcia0154@outlook.com",
+  "phone": "",
+  "location": "Austin, Texas, United States",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Hexagon Manufacturing Intelligence",
+      "title": "Senior AI Engineer",
+      "location": "",
+      "start_date": "Apr 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": "BrightOps",
+      "title": "Senior Software Engineer",
+      "location": "",
+      "start_date": "May 2019",
+      "end_date": "Mar 2023"
+    },
+    {
+      "company": "Nvidia",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "May 2017",
+      "end_date": "Apr 2019"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "Jun 2016",
+      "end_date": "May 2017"
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Engineer Intern",
+      "location": "",
+      "start_date": "Aug 2015",
+      "end_date": "Jun 2016"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "school": "Texas Tech University",
+      "start_year": "2011",
+      "end_year": "2015"
+    }
+  ]
+}
